@@ -29,14 +29,14 @@ Nickel,Ni,28,1.91
 Copper,Cu,29,1.90
 Zinc,Zn,30,1.65
 Gallium,Ga,31,1.81
-Germaium,Ge,32,2.01
+Germanium,Ge,32,2.01
 Arsenic,As,33,2.18
 Selenium,Se,34,2.55
 Bromine,Br,35,2.96
 Krypton,Kr,36,3.00
 Rubidium,Rb,37,0.82
 Strontium,Sr,38,0.95
-Yittrium,Y,39,1.22
+Yttrium,Y,39,1.22
 Zirconium,Zr,40,1.33
 Niobium,Nb,41,1.60
 Molybdenum,Mo,42,2.16
