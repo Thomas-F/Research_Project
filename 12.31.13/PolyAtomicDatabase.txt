@@ -1,6 +1,7 @@
-Mercury(I),Hg22+,2
+Mercury(I),Hg2 ^ 2+,2
 Ammonium,NH4+,1
 Hydronium,H3O+,1
+Mercury(I),Hg+,1
 Dihydrogen Phosphite,H2PO3-,-1
 Dihydrogen Phosphate,H2PO4-,-1
 Hydrogen Carbonate,HCO3-,-1
@@ -30,24 +31,24 @@ Iodate,IO3-,-1
 Periodate,IO4-,-1
 Aluminate,AlO2-,-1
 Azide,N3-,-1
-Hydrogen Phosphite,HPO32-,-2
-Hydrogen Phosphate,HPO42-,-2
-Carbonate,CO32-,-2
-Sulfite,SO32-,-2
-Sulfate,SO42-,-2
-Thiosulfate,S2O32-,-2
-Silicate,SiO32-,-2
-Carbide,C22-,-2
-Oxalate,C2O42-,-2
-Chromate,CrO42-,-2
-Dichromate,Cr2O72-,-2
-Tartrate,C4H4O62-,-2
-Molybdate,MoO42-,-2
-Peroxide,O22-,-2
-Disulfide,S22-,-2
-Phosphite,PO33-,-3
-Phosphate,PO43-,-3
-Hypophosphite,PO23-,-3
-Arsenite,AsO33-,-3
-Arsenate,AsO43-,-3
-Pyrophosphate,P2O74-,-4
+Hydrogen Phosphite,HPO3 ^ 2-,-2
+Hydrogen Phosphate,HPO4 ^ 2-,-2
+Carbonate,CO3 ^ 2-,-2
+Sulfite,SO3 ^ 2-,-2
+Sulfate,SO4 ^ 2-,-2
+Thiosulfate,S2O3 ^ 2-,-2
+Silicate,SiO3 ^ 2-,-2
+Carbide,C2 ^ 2-,-2
+Oxalate,C2O4 ^ 2-,-2
+Chromate,CrO4 ^ 2-,-2
+Dichromate,Cr2O7 ^ 2-,-2
+Tartrate,C4H4O6 ^ 2-,-2
+Molybdate,MoO4 ^ 2-,-2
+Peroxide,O2 ^ 2-,-2
+Disulfide,S2 ^ 2-,-2
+Phosphite,PO3 ^ 3-,-3
+Phosphate,PO4 ^ 3-,-3
+Hypophosphite,PO2 ^ 3-,-3
+Arsenite,AsO3 ^ 3-,-3
+Arsenate,AsO4 ^ 3-,-3
+Pyrophosphate,P2O7 ^ 4-,-4
