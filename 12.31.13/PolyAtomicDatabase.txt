@@ -1,0 +1,53 @@
+Mercury(I),Hg22+,2
+Ammonium,NH4+,1
+Hydronium,H3O+,1
+Dihydrogen Phosphite,H2PO3-,-1
+Dihydrogen Phosphate,H2PO4-,-1
+Hydrogen Carbonate,HCO3-,-1
+Hydrogen Sulfite,HSO3-,-1
+Hydrogen Sulfate,HSO4-,-1
+Nitrite,NO2-,-1
+Nitrate,NO3-,-1
+Hydroxide,OH-,-1
+Acetate,CH2COO-,-1
+Chromite,CrO2-,-1
+Cyanide,CN-,-1
+Cyanate,CNO-,-1
+Thiocyanate,CNS-,-1
+Superoxide,O2-,-1
+Permanganate,MnO4-,-1
+Hypochlorite,ClO-,-1
+Chlorite,ClO2-,-1
+Chlorate,ClO3-,-1
+Perchlorate,ClO4-,-1
+Hypobromite,BrO-,-1
+Bromite,BrO2-,-1
+Bromate,BrO3-,-1
+Perbromate,BrO4-,-1
+Hypoiodite,IO-,-1
+Iodite,IO2-,-1
+Iodate,IO3-,-1
+Periodate,IO4-,-1
+Aluminate,AlO2-,-1
+Azide,N3-,-1
+Hydrogen Phosphite,HPO32-,-2
+Hydrogen Phosphate,HPO42-,-2
+Carbonate,CO32-,-2
+Sulfite,SO32-,-2
+Sulfate,SO42-,-2
+Thiosulfate,S2O32-,-2
+Silicate,SiO32-,-2
+Carbide,C22-,-2
+Oxalate,C2O42-,-2
+Chromate,CrO42-,-2
+Dichromate,Cr2O72-,-2
+Tartrate,C4H4O62-,-2
+Molybdate,MoO42-,-2
+Peroxide,O22-,-2
+Disulfide,S22-,-2
+Phosphite,PO33-,-3
+Phosphate,PO43-,-3
+Hypophosphite,PO23-,-3
+Arsenite,AsO33-,-3
+Arsenate,AsO43-,-3
+Pyrophosphate,P2O74-,-4
